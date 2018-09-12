@@ -1,0 +1,7 @@
+C:\Users\УринбасаровД\source\repos\OperatorsTest\OperatorsTest\bin\Debug\OperatorsTest.exe.config
+C:\Users\УринбасаровД\source\repos\OperatorsTest\OperatorsTest\bin\Debug\OperatorsTest.exe
+C:\Users\УринбасаровД\source\repos\OperatorsTest\OperatorsTest\bin\Debug\OperatorsTest.pdb
+C:\Users\УринбасаровД\source\repos\OperatorsTest\OperatorsTest\obj\Debug\OperatorsTest.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\OperatorsTest\OperatorsTest\obj\Debug\OperatorsTest.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\OperatorsTest\OperatorsTest\obj\Debug\OperatorsTest.exe
+C:\Users\УринбасаровД\source\repos\OperatorsTest\OperatorsTest\obj\Debug\OperatorsTest.pdb
